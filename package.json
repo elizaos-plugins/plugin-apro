@@ -19,7 +19,6 @@
         "dist"
     ],
     "dependencies": {
-        "@elizaos/core": "workspace:*",
         "ai-agent-sdk-js": "^0.0.2",
         "@ethersproject/contracts": "^5.7.0",
         "@ethersproject/providers": "^5.7.0",
